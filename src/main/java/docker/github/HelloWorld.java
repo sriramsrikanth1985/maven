@@ -10,7 +10,7 @@ public class HelloWorld {
 	}
 	
 	public static String printHello(){
-		return "Hello World Srikanth !!";
+		return "Hello World !!";
 	}
 
 }
