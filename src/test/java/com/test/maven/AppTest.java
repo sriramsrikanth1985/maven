@@ -1,4 +1,4 @@
-package docker.github;
+package com.test.maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

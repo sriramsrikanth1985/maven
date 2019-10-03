@@ -1,4 +1,6 @@
-package docker.github;
+package com.test.maven;
+
+import com.test.maven.GreaterNum;
 
 import junit.framework.TestCase;
 

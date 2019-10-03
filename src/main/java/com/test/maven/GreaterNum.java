@@ -1,4 +1,4 @@
-package docker.github;
+package com.test.maven;
 
 import java.awt.GradientPaint;
 
